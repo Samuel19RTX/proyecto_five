@@ -1,0 +1,10 @@
+{
+    "name": "proyecto_five",
+    "description": "Tienda en línea con PHP y PostgreSQL",
+    "require": {
+      "php": "7.4",
+      "ext-pdo": "*",         
+      "ext-pgsql": "*"        
+    }
+  }
+  
